@@ -1,1 +1,4 @@
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5lZ2FyIDMgLSBAVjJSQVlORVRJUiIsDQogICJhZGQiOiAiMTg1LjY1LjIwMi4xMjIiLA0KICAicG9ydCI6ICIxMDAwMCIsDQogICJpZCI6ICI2MWQxZGYzNi01YThjLTExZjEtYTdmMC00ZjkxZjE3YmJlZDkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJwYXRoIjogIi92cG5qYW50aXQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==
+vless://6a0a1256-5a8a-11f1-bb8b-ff75a66a89a1@87.251.79.228:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Negar%201%20-%20%40V2RAYNETIR
+vless://451cd5e0-5a8b-11f1-a7fa-17895fe38550@185.237.221.200:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Negar%202%20-%20%40V2RAYNETIR
 
